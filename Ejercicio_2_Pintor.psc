@@ -1,5 +1,5 @@
 Algoritmo Ejercicio_2_Pintor
-	Escribir '¿cuales son los metros cuadrados a pintar?'
+	Escribir 'Â¿cuales son los metros cuadrados a pintar?'
 	Leer a
 	Escribir 'El pintor por metro cuadrado cobra:'
 	Leer b
