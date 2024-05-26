@@ -1,0 +1,10 @@
+Algoritmo Calculo_De_Iva
+	Definir Precio, IVA, Total Como Real
+	Escribir 'Ingrse el precio del producto sin Iva:'
+	Leer Precio
+	Escribir "Ingrese el IVA:"
+	Leer IVA;
+	IvadePrecio=(IVA * Precio)/100;
+	Total <- Precio+IvadePrecio
+	Escribir 'el precio del producto con Iva es de :', Total
+FinAlgoritmo
